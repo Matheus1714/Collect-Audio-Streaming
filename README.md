@@ -38,7 +38,8 @@ Basic technologies useds in this project.
 
 **Front-End**
 
-* [PHP](https://www.php.net/) (Programming Language)
+* [PHP](https://www.php.net/) v5.6.40 (Programming Language)
+* [WampServer](https://www.wampserver.com/en/) v3.2.6 (Packages)
 * [Laravel](https://laravel.com/) (Framework)
 
 **Front-End**
@@ -48,6 +49,8 @@ Basic technologies useds in this project.
 
 **Data Base (DB)**
 
-* [MySQL](https://www.mysql.com/) (DB SQL)
+* [MySQL](https://www.mysql.com/) v5.7.36 (DB SQL)
 * [MongoDB](https://www.mongodb.com/) (DB NoSQL)
+
+Install using [WampServer](https://www.wampserver.com/en/)
 

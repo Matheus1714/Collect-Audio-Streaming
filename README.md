@@ -38,9 +38,8 @@ Basic technologies useds in this project.
 
 **Front-End**
 
-* [PHP](https://www.php.net/) v5.6.40 (Programming Language)
-* [WampServer](https://www.wampserver.com/en/) v3.2.6 (Packages)
-* [Laravel](https://laravel.com/) (Framework)
+* [PHP](https://www.php.net/) v7.4.26 (Programming Language)
+* [Composer](https://getcomposer.org/) v2.3.10 (A Dependency Manager for PHP)
 
 **Front-End**
 
@@ -52,5 +51,19 @@ Basic technologies useds in this project.
 * [MySQL](https://www.mysql.com/) v5.7.36 (DB SQL)
 * [MongoDB](https://www.mongodb.com/) (DB NoSQL)
 
-Install using [WampServer](https://www.wampserver.com/en/)
+## Basic commands
+
+### Front-End
+
+* Create project
+
+```shell
+composer create-project --prefer-dist laravel/laravel flualfaapp --ignore-platform-req=ext-fileinfo
+```
+
+* Run flualfaapp
+
+```
+php artisan serve
+```
 

@@ -1,5 +1,9 @@
 # Collect Audio Streaming
 
+**Collect Audio Screen**
+![](img/screen.png)
+
+**Architecture to Send**
 ![](img/architecture-streaming.png)
 
 Developing **Proof of Concept (PoC)** for project **MEC-ITA** using Streaming Technology.

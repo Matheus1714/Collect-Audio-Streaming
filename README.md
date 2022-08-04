@@ -8,6 +8,8 @@
 
 Developing **Proof of Concept (PoC)** for project **MEC-ITA** using Streaming Technology.
 
+Obs.: Linux is Operational System (OS) necessary work with this project.
+
 ## Requirements Front-End
 
 Functional Requirements to Front-End

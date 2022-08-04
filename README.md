@@ -45,7 +45,7 @@ Basic technologies useds in this project.
 * [PHP](https://www.php.net/) v7.4.26 (Programming Language)
 * [Composer](https://getcomposer.org/) v2.3.10 (A Dependency Manager for PHP)
 
-**Front-End**
+**Back-End**
 
 * [Kafka](https://kafka.apache.org/) (Streaming)
 * [Docker](https://www.docker.com/) (Container)

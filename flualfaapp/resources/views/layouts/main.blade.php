@@ -6,6 +6,9 @@
 
         <title>@yield('title')</title>
 
+        <link rel="stylesheet" href="css/base.css">
+        <link rel="stylesheet" href="css/audio.css">
+
         <!-- Favicon -->
         <link rel="icon" type="image/x-icon" href="/img/favicon.png">
     </head>
